@@ -5,7 +5,7 @@ Web Technologies used: HTML, CSS, JS, Bootstrap
 
 IDE: VS-Code
 
-Industry*: Health and food
+Industry*: Health
 
 Project Title*: RESTURANT Website
 

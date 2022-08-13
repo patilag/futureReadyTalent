@@ -7,8 +7,6 @@ IDE: VS-Code
 
 Industry*: Health and food
 
-Industry*: Health and food
-
 Project Title*: RESTURANT Website
 
 Problem Statement/Opportunity*: An RESTURANTowner wants to build a sample Front End prototype website for their business as the online ordering by people has been growing at an incredible rate, and so have ecommerce challenges. To build a whole website they have chosen Azure Cloud Platform. Build a website that have: Home Page.
